@@ -1,0 +1,6 @@
+{
+  "name": "Bam Bam Janki Complex",
+  "description": "Bam Bam Janki Complex - Premium Hotel & Restaurant offering authentic food, digital menu, room bookings, and hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
